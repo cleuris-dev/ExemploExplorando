@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\clari\\.nuget\\packages\\": {},
+    "C:\\Users\\13020681723\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\ExemploExplorando\\ExemploExplorando.csproj",
+      "projectUniqueName": "C:\\Projetos\\ExemploExplorando\\ExemploExplorando\\ExemploExplorando.csproj",
       "projectName": "ExemploExplorando",
-      "projectPath": "C:\\Projetos\\ExemploExplorando\\ExemploExplorando.csproj",
-      "packagesPath": "C:\\Users\\clari\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\ExemploExplorando\\obj\\",
+      "projectPath": "C:\\Projetos\\ExemploExplorando\\ExemploExplorando\\ExemploExplorando.csproj",
+      "packagesPath": "C:\\Users\\13020681723\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\ExemploExplorando\\ExemploExplorando\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\clari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\13020681723\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -73,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
